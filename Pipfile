@@ -17,6 +17,7 @@ requests = "*"
 pmdarima = "*"
 tqdm = "*"
 xgboost = "*"
+selenium = "*"
 
 [dev-packages]
 ipykernel = "*"
